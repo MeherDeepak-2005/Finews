@@ -1,5 +1,5 @@
 # Finews
-News app for Finance, Stock Market and Govt Policies (India only)
+A stupid news app for Finance, Stock Market and Govt Policies (India only) 
 
 
 If you would like you can custmoise the HTML file.
