@@ -1,0 +1,6 @@
+from googlesearch import search
+results = search('site:https://www.thomascook.in dubai travel packages',num_results=10,lang='en')
+
+print(results)
+
+['https://www.thomascook.in/holidays/international-tour-packages/dubai-tour-packages', 'https://www.thomascook.in/holidays/international-tour-packages/dubai-tour-packages-family-packages', 'https://www.thomascook.in/international-tourism/dubai', 'https://www.thomascook.in/holidays/international-tour-packages/dubai-tour-packages-from-delhi', 'https://www.thomascook.in/holidays/international-tour-packages/dubai-tour-packages-from-mumbai', 'https://www.thomascook.in/holidays/international-tour-packages/dubai-tour-packages-from-hyderabad', 'https://www.thomascook.in/holidays/international-tour-packages/dubai-tour-packages-50000-100000', 'https://www.thomascook.in/holidays/international-tour-packages/dubai-tour-packages-from-bangalore', 'https://www.thomascook.in/holidays/international-tour-packages/dubai-tour-packages-from-ahmedabad', 'https://www.thomascook.in/holidays/international-tour-packages/abu-dhabi-tour-packages', 'https://www.thomascook.in/holidays/international-tour-packages/dubai-tour-packages-from-chennai']
